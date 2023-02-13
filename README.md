@@ -1,5 +1,6 @@
 # Boostd
 A Win32 Tool for boosting and optimizing computer performance
+Coded in VS using [Win32 API](https://learn.microsoft.com/en-us/windows/win32/api/) for the UI
 
 # Usage
 Look for releases, and download.
