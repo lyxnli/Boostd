@@ -15,7 +15,7 @@ If there isn't any, the project is in debug stage, and you will find the latest 
 * or Click "Clean All" or "Check All" to do everything.
 
 
-# Change Log
+## Changelog
 **0.4.0:**
 * Main UI
 * Bug fixes
