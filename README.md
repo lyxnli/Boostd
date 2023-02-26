@@ -5,6 +5,7 @@ A Win32 Tool for boosting and optimizing computer performance.
 
 ## Usage
 > WARNING! Don't use executables from any other rep other then this one!
+
 Look for releases, and download.
 If there isn't any, the project is in debug stage, and you will find the latest exe in the [bin](https://github.com/EfectX/Boostd/tree/main/bin) folder
 
